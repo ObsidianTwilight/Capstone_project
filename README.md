@@ -8,9 +8,11 @@ Setup giude🤗(Inside VSCode)
 4. Type: `cd ADK`
 5. Create Virtual Environment: `python -m venv venv`
 6. Now activate the virtual environment: `venv\Scripts\activate`
-7. now install dependencies: `pip install -r requirements.txt`
+7. Now install dependencies: `pip install -r requirements.txt`
 8. Inside ADK folder, make another folder 'Agents'
-You're all set!
+9. Indside Agents folder make another folder 'WebAgent'
+10. Inside WebAgent make python file 'agent.py'
+10. You're all set!
 ---------------------------------------------------------------------------------
 To run the code:
 1. DO NOT RUN CODE inside Agent folder.
@@ -18,6 +20,6 @@ To run the code:
 3. Now you're in ADK
 4. Now you can run the code, click on run button on the top-right corner.
 5. After running code, type `adk web`
-6. Click on the link by hoering over the link or press Ctrl + click.
+6. Click on the link by hovring over the link or press Ctrl + click.
 
 
