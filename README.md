@@ -15,9 +15,9 @@ Setup giude🤗(Inside VSCode)
 10. You're all set!
 ---------------------------------------------------------------------------------
 To run the code:
-1. DO NOT RUN CODE inside Agent folder.
+1. DO NOT RUN CODE inside WebAgent folder.
 2. Go to paraent folder(This is important) using `cd ..`
-3. Now you're in ADK
+3. Now you're in Agents
 4. Now you can run the code, click on run button on the top-right corner.
 5. After running code, type `adk web`
 6. Click on the link by hovring over the link or press Ctrl + click.
